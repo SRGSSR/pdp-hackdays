@@ -38,8 +38,8 @@ Note: kafka-console-consumer.sh runs without Avro schema deserialisation. For de
 
 ### Schema Registry
 
-User: admin
-Password: Pdp-Test1
+- User: admin
+- Password: Pdp-Test1
 
 ### Available Topics
 
