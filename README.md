@@ -1,6 +1,6 @@
 # pdp-hackdays
 
-Example code for accessing the PDP API and PDP Kafka streams. 
+Example code for accessing PDP API and PDP Kafka streams. 
 
 ## GraphQL API
 
